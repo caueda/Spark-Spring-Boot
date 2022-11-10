@@ -1,0 +1,1 @@
+user: select id, nome, status from user
